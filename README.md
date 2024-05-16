@@ -18,8 +18,7 @@
 
 <img alt="Night Coding" src="https://github.com/sumitx28/sumitx28/blob/128bcc7db4230ef585c616f829f26c999d73386a/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
-
+## 🛠 Tech Stack
 ### 📋 Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
