@@ -6,17 +6,24 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalmakwana.univ@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kn362288@dal.ca)
 
-
 ## About Myself 👨🏽‍💼  
-- ⚡ Passionate Software Developer skilled in programming and problem-solving.
-- 👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally. #RecentGraduate #SoftwareDeveloper
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I'm currently learning about Cloud and Serverless architectures.
-- 👯 I’m looking to collaborate on: Cool Stuff!
-- 💬 &nbsp;Feel free to reach out to me for Full Time / COOP opportunities or just for some interesting discussion.
-
-
-<img alt="Night Coding" src="https://github.com/sumitx28/sumitx28/blob/128bcc7db4230ef585c616f829f26c999d73386a/Night-Coding.gif" align="right"/>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <ul>
+        <li>⚡ Passionate Software Developer skilled in programming and problem-solving.</li>
+        <li>👨🏽‍💻 Excited to join a team where I can continue to learn and grow professionally. #RecentGraduate #SoftwareDeveloper</li>
+        <li>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.</li>
+        <li>🌱 I'm currently learning about Cloud and Serverless architectures.</li>
+        <li>👯 I’m looking to collaborate on: Cool Stuff!</li>
+        <li>💬 &nbsp;Feel free to reach out to me for Full Time / COOP opportunities or just for some interesting discussion.</li>
+      </ul>
+    </td>
+    <td style="border: none;">
+      <img alt="Night Coding" src="https://github.com/sumitx28/sumitx28/blob/128bcc7db4230ef585c616f829f26c999d73386a/Night-Coding.gif"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 ### 📋 Languages
@@ -58,9 +65,6 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-
 ### 🧪 Testing
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> 
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
@@ -68,15 +72,12 @@
 ### ☁️ Cloud 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
 ### 👨‍💻 Coding 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
-
-
 ## Profile Stats 💻
 |  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ku-nal&show_icons=true&include_all_commits=true&count_private=true&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/kunalmakwana18/"><img alt="Kunal's LeetCode Stats" src="https://leetcard.jacoblin.cool/kunalmakwana18?theme=dark&font=Lato" height="192px"/></a> |
-| --- | ----------- | 
+| --- | ----------- |
