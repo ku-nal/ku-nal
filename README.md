@@ -19,9 +19,6 @@
         <li>💬 &nbsp;Feel free to reach out to me for Full Time / COOP opportunities or just for some interesting discussion.</li>
       </ul>
     </td>
-    <td style="border: none;">
-      <img alt="Night Coding" src="https://github.com/sumitx28/sumitx28/blob/128bcc7db4230ef585c616f829f26c999d73386a/Night-Coding.gif"/>
-    </td>
   </tr>
 </table>
 
