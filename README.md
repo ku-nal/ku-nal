@@ -76,5 +76,5 @@
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ## Profile Stats 💻
-|  <p align="center"> <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swhasan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ku-nal&show_icons=true&include_all_commits=true&count_private=true&theme=dark&font=Lato" height="192px"/></a> | <p align="center"> <a href="https://leetcode.com/kunalmakwana18/"><img alt="Kunal's LeetCode Stats" src="https://leetcard.jacoblin.cool/kunalmakwana18?theme=dark&font=Lato" height="192px"/></a> |
-| --- | ----------- |
+| <p align="center"> <a href="https://leetcode.com/kunalmakwana18/"><img alt="Kunal's LeetCode Stats" src="https://leetcard.jacoblin.cool/kunalmakwana18?theme=dark&font=Lato" height="192px"/></a> |
+| --- |
